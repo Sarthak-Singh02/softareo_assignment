@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321217602136",
+    "project_id": "softareo-assignmnet",
+    "storage_bucket": "softareo-assignmnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321217602136:android:e0635ec52bfec056d0e02d",
+        "android_client_info": {
+          "package_name": "com.example.softareo_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321217602136-9q7o3bu6cprnqde0gpbe199hkfrek7s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7S26d9DnVrNWO_8XH5wwJGL7YwDLzjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321217602136-9q7o3bu6cprnqde0gpbe199hkfrek7s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
